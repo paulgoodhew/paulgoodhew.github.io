@@ -21,7 +21,7 @@ export type ColumnDataTableType = {|
 |};
 
 export const COMMANDS: {[CommandNames] : CommandType} = {
-    gh: {
+   workday: {
         name: "Workday",
         url: "https://shopify.okta.com/home/workday/0oa36bpzoq4DmkRil0x7/30",
         
