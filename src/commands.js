@@ -25,7 +25,7 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
         name: "Workday",
         url: "https://shopify.okta.com/home/workday/0oa36bpzoq4DmkRil0x7/30",
         
-    },
+    }, 
  
     wiki: {
         name: "Wikipedia",
